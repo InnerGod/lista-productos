@@ -1,0 +1,64 @@
+body {
+  background: url(img/mosaic-background.jpg);
+  background-repeat: repeat;
+  color:rgb(238, 28, 28)
+}
+header {
+  background: url(img/dota2.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 150px;
+  border-bottom-style: solid;
+}
+nav {
+  background-color: rgba(192, 27, 27, 0.459);
+  font-weight: bold;
+}
+
+table{
+  text-align: center;
+}
+table td{
+  padding-top: 30px;
+  color: rgb(238, 28, 28);
+  width: 90%;
+  text-align: center;
+}
+
+table th{
+  color: rgb(137, 192, 112);
+  width: 90%;
+  text-align: justify;
+  padding-left: 20%;
+  padding-right: 5%;
+}
+h3{
+    color: darkgoldenrod;
+    text-align: center;
+}
+h5 {
+  color: rgb(243, 203, 150);
+}
+
+p {
+  text-align: center;
+  color: rgb(224, 176, 158);
+}
+
+footer{
+    text-align: center;
+    color: darkgoldenrod;
+}
+.page-header {
+  text-align: center;
+  color: goldenrod;
+}
+
+.imagenes{
+  width: 200px;
+  height: 200px;
+  margin: 5px 10px;
+  border-radius: 20%;
+  max-width: 200px;;
+  
+}
